@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise Network Lab with SIEM Monitoring",
+  "description": "Production-grade enterprise cybersecurity lab workbench featuring network segmentation, pfSense firewall, Wazuh SIEM, endpoint telemetry, and SOC incident detection simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
